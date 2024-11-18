@@ -1,0 +1,23 @@
+# Cache files
+deno_dir/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+tmp/
+temp/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
